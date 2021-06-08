@@ -3,7 +3,6 @@ import Inicio from './Inicio'
 import Cadastro from './Cadastro'
 import Login from './Login'
 import Gastos from './Gastos'
-import Exemplo from './Exemplo'
 
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 
