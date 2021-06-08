@@ -18,7 +18,6 @@ export default function App() {
         <Route path="/cadastro"><Cadastro/></Route>
         <Route path="/gastos"><Gastos/></Route>
         <Route path="/login"><Login/></Route>
-        <Route path="/exemplo"><Exemplo/></Route>
 
         <Route path="/"><Inicio/></Route>
         {/* O path="/" tem que ficar no final pra não dar erro */}

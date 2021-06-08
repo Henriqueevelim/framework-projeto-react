@@ -95,13 +95,6 @@ export default function NovoUsuario(props) {
                   <Input />
                 </Form.Item>
 
-                {/* <Form.Item
-                  label="Insira o Usuário novamente:"
-                  name="usernameRep"
-                >
-                  <Input />
-                </Form.Item> */}
-
                 <Form.Item label="Crie sua Senha:" name="senha">
                   <Input.Password />
                 </Form.Item>
@@ -119,10 +112,6 @@ export default function NovoUsuario(props) {
                   />
 
                 </Form.Item>
-
-                {/* <Form.Item label="Insira a Senha novamente:" name="passwordRep">
-                  <Input.Password />
-                </Form.Item> */}
 
                 <Button
                   style={{

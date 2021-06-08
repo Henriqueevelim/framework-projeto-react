@@ -105,8 +105,6 @@ export default function Gastos(props) {
 
                 add = add + parseInt(item.valor)
 
-                //console.log(add)
-                
             })
 
             setGasto(add)

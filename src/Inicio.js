@@ -41,7 +41,6 @@ export default function Inicio(props) {
 
                     <Text underline style={{ fontSize: '18px' }}>
                         <Link to="/login" style={{ color: 'black' }}>já tenho conta</Link>
-                        {/* já tenho conta */}
                     </Text>
 
                 </Button>
